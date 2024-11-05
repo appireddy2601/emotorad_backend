@@ -1,6 +1,4 @@
 # emotorad_backend
-# Zamazon Web Service
-
 Welcome to Web Service! This service is designed to consolidate contact information across multiple purchases for a unique user experience.
 
 ## Table of Contents
